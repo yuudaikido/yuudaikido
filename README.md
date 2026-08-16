@@ -1,16 +1,27 @@
-## Hi there 👋
+# Yuudai Kido
 
-<!--
-**yuudaikido/yuudaikido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer / Engineer at Musikaroid Records**
 
-Here are some ideas to get you started:
+I build systems with PHP and Laravel, and I work as an engineer at the music label **Musikaroid Records**, where I handle web and open-source development.
+Right now I'm going deeper into Python, AI, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+
+- 🌐 **[sonotracks-discography-static](https://github.com/yuudaikido/sonotracks-discography-static)** — An OSS package that embeds a sonoTracks catalog into any static site. Featured on the official sonoTracks announcements.
+- 🛠 **UNI** *(in development)* — A programming language you write in your native language, which transpiles to Python, PHP, JS, and Java.
+- ⚙️**CAT** *(in development)* — A minimal PHP web framework experiment.
+
+### 🧰 Tech
+
+`PHP` · `Laravel` · `Python` · `SQL` · `JavaScript` · `Java`
+
+### 🔗 Links
+
+- Zenn — [zenn.dev/yuudaikido](https://zenn.dev/yuudaikido)
+- dev.to — [dev.to/yuudaikido](https://dev.to/yuudaikido)
+
+---
+
+*Focusing on LLM application development, AI, and security.*
