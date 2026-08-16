@@ -18,7 +18,7 @@ Right now I'm going deeper into Python, AI, and security.
 `PHP` · `Laravel` · `Python` · `SQL` · `JavaScript` · `Java`
 
 ### 🔗 Links
-
+- Musikaroid Records — [musikaroid.com](https://musikaroid.com)
 - Zenn — [zenn.dev/yuudaikido](https://zenn.dev/yuudaikido)
 - dev.to — [dev.to/yuudaikido](https://dev.to/yuudaikido)
 
